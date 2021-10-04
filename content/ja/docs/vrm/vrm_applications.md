@@ -75,6 +75,7 @@ weight: 4
 | [Ls ENGINE](https://lsengine.net/) | Windows |
 | [AI4Animation](https://github.com/t-takasaka/AI4Animation/tree/master/AI4Animation/Assets/Demo/ARKit) | Unityライブラリ |
 | [Dance Dance Maker!](https://booth.pm/ja/items/2216222) | Oculus Quest |
+| .[DAN☆SING!](https://store.steampowered.com/app/1688750/DANSING_for_Vroid_and_MMD_Dan_Sing_Sing/) | Windows |
 
 ##  撮影
 
